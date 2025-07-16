@@ -24,8 +24,7 @@ It consists of eight tables:
 ## 📄 Project Report
 
 You can view the full project report here –  
-[Project Report Link](https://drive.google.com/file/d/1aDeZXj5Dit5M34HZhfXfw5Bg7o2ZL7RQ/view?usp=drive_link)
-
+[Project Report Link](https://github.com/KunapaneniSravani/Target_SQL/blob/main/TARGET-SQL.pdf)
 ---
 
 ## 🛠️ Tools and Databases Used
