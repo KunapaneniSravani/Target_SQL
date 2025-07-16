@@ -20,13 +20,6 @@ It consists of eight tables:
 - Products
 
 ---
-
-## 📄 Project Report
-
-You can view the full project report here –  
-[Project Report Link](https://github.com/KunapaneniSravani/Target_SQL/blob/main/TARGET-SQL.pdf)
----
-
 ## 🛠️ Tools and Databases Used
 - Google BigQuery
 - Tableau
